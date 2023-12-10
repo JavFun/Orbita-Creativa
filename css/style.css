@@ -154,3 +154,8 @@ padding: 150px;
 .pad-pequeno{
     padding: 10px;
 }
+
+.icon{
+    font-size: 50px;
+    text-align: center;
+}
